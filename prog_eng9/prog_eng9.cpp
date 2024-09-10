@@ -11,6 +11,7 @@ int main()
     std::cin >> a;
     std::cin >> b;
     std::cout << "сумма a+b="<<a+b;
+    std::cout << " a-b=" << a - b;
     std::cout << "wtyjr";
 }   
 
